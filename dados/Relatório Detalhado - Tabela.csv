@@ -1,0 +1,345 @@
+﻿id_farm,responsavel,localizacao,indice_consumo,farm_name,qtd_lotes,custo_medio_lote,custo_medio_ave
+6,,Itapira - SP,458.0718,Granja Automatizada em Atividade - Itapira,1,0,0
+20,Pedro Almeida,São Paulo - SP,347.9927,Granja de Aves/Aviários — Registro Fictício - São Paulo,1,0,0
+19,"Júlia Watanabe, Lucas Cayres Porto",São Paulo - SP,303.5337,Granja Frango de Corte - São Paulo,1,0,0
+6,,Itapira - SP,215.6453,Granja Automatizada em Atividade - Itapira,3,0,0
+36,,Cascavel - PR,93.9598,Granja - Cascavel,1,15025,5.224269819193324
+37,,Linhares - ES,93.9125,Granja - Linhares,1,15737.5,5.413656690746474
+39,,Sorriso - MT,90.8474,Granja - Sorriso,1,10203.75,3.467125382262997
+40,,Quixada - CE,90.3955,Granja - Quixada,1,10728.75,3.6075151311365166
+41,,Garanhuns - PE,89.9182,Granja - Garanhuns,1,11253.75,3.745008319467554
+50,,Chapeco - SC,89.4856,Granja - Chapeco,1,16206.25,4.896148036253776
+49,,Ji-Parana - RO,89.4853,Granja - Ji-Parana,1,15493.75,4.725144861238182
+48,,Maraba - PA,89.4528,Granja - Maraba,1,14781.25,4.550877463054187
+47,,Feira de Santana - BA,89.4522,Granja - Feira de Santana,1,14068.75,4.373251476530929
+46,,Itacoatiara - AM,89.4515,Granja - Itacoatiara,1,13356.25,4.192168863779033
+42,,Uberlandia - MG,89.4506,Granja - Uberlandia,1,11778.75,3.879693675889328
+45,,Araguaina - TO,89.4178,Granja - Araguaina,1,14237.5,4.5126782884310614
+44,,Rio Verde - GO,89.4168,Granja - Rio Verde,1,13525,4.3293854033290655
+43,,Dourados - MS,89.4157,Granja - Dourados,1,12812.5,4.14241836404785
+42,,Uberlandia - MG,89.4147,Granja - Uberlandia,1,12100,3.95166557805356
+41,,Garanhuns - PE,89.3792,Granja - Garanhuns,1,11387.5,3.757010887495876
+40,,Quixada - CE,89.3777,Granja - Quixada,1,10675,3.558333333333333
+39,,Sorriso - MT,89.3763,Granja - Sorriso,1,11556.25,3.892303805995285
+39,,Sorriso - MT,89.3588,Granja - Sorriso,1,9527.5,3.2517064846416384
+38,,Passo Fundo - RS,89.3392,Granja - Passo Fundo,1,16450,5.599046970728387
+43,,Dourados - MS,89.0265,Granja - Dourados,1,12303.75,4.011656341701989
+40,,Quixada - CE,88.6476,Granja - Quixada,1,9958.75,3.363306315433975
+44,,Rio Verde - GO,88.5772,Granja - Rio Verde,1,12828.75,4.140978050355068
+36,,Cascavel - PR,88.5058,Granja - Cascavel,1,14630,5.11002444987775
+37,,Linhares - ES,88.2735,Granja - Linhares,1,15248.75,5.269091223220456
+45,,Araguaina - TO,88.1702,Granja - Araguaina,1,13353.75,4.267737296260786
+38,,Passo Fundo - RS,88.0819,Granja - Passo Fundo,1,15867.5,5.424786324786325
+41,,Garanhuns - PE,87.9511,Granja - Garanhuns,1,10390,3.4725935828877006
+39,,Sorriso - MT,87.8589,Granja - Sorriso,1,10880,3.6806495263870094
+39,,Sorriso - MT,87.8211,Granja - Sorriso,1,10445,3.5807336304422352
+46,,Itacoatiara - AM,87.7381,Granja - Itacoatiara,1,13878.75,4.392009493670886
+48,,Maraba - PA,87.695,Granja - Maraba,1,13408.75,4.178482393268931
+36,,Cascavel - PR,87.6687,Granja - Cascavel,1,14235,4.994736842105263
+40,,Quixada - CE,87.6406,Granja - Quixada,1,11498.75,3.8495982591228657
+41,,Garanhuns - PE,87.4614,Granja - Garanhuns,1,12117.5,4.015076209410205
+47,,Feira de Santana - BA,87.3144,Granja - Feira de Santana,1,14403.75,4.513867126292698
+42,,Uberlandia - MG,87.3035,Granja - Uberlandia,1,10821.25,3.5796394310287796
+42,,Uberlandia - MG,87.2515,Granja - Uberlandia,1,12736.25,4.177189242374549
+37,,Linhares - ES,87.2364,Granja - Linhares,1,14760,5.123221103783409
+49,,Ji-Parana - RO,87.0931,Granja - Ji-Parana,1,13840,4.271604938271605
+43,,Dourados - MS,87.0459,Granja - Dourados,1,11761.25,3.8185876623376624
+48,,Maraba - PA,86.9313,Granja - Maraba,1,14928.75,4.6333798882681565
+40,,Quixada - CE,86.8843,Granja - Quixada,1,10782.5,3.657564450474898
+44,,Rio Verde - GO,86.8779,Granja - Rio Verde,1,12380,3.979427836708454
+45,,Araguaina - TO,86.868,Granja - Araguaina,1,12470,4.018691588785047
+36,,Cascavel - PR,86.8239,Granja - Cascavel,1,13840,4.878392668311597
+38,,Passo Fundo - RS,86.7775,Granja - Passo Fundo,1,15285,5.24896978021978
+45,,Araguaina - TO,86.6801,Granja - Araguaina,1,12998.75,4.137094207511139
+43,,Dourados - MS,86.6348,Granja - Dourados,1,11252.5,3.684512115258677
+49,,Ji-Parana - RO,86.5234,Granja - Ji-Parana,1,15453.75,4.750614817091916
+46,,Itacoatiara - AM,86.4861,Granja - Itacoatiara,1,13617.5,4.291679798298141
+50,,Chapeco - SC,86.4708,Granja - Chapeco,1,14271.25,4.362962396820544
+47,,Feira de Santana - BA,86.3284,Granja - Feira de Santana,1,14236.25,4.443274032459426
+39,,Sorriso - MT,86.2696,Granja - Sorriso,1,9768.75,3.3638946280991737
+43,,Dourados - MS,86.2167,Granja - Dourados,1,12337.5,4.074471598414795
+37,,Linhares - ES,86.1535,Granja - Linhares,1,14271.25,4.9760285913528595
+48,,Maraba - PA,86.1415,Granja - Maraba,1,14855,4.5919629057187015
+50,,Chapeco - SC,86.1231,Granja - Chapeco,1,15978.75,4.865636419001218
+44,,Rio Verde - GO,86.0135,Granja - Rio Verde,1,11683.75,3.7872771474878446
+36,,Cascavel - PR,86.0084,Granja - Cascavel,1,15038.75,5.325336402266289
+41,,Garanhuns - PE,86.002,Granja - Garanhuns,1,11120,3.7327962403491104
+46,,Itacoatiara - AM,85.9962,Granja - Itacoatiara,1,12807.5,4.0866305041480535
+49,,Ji-Parana - RO,85.9581,Granja - Ji-Parana,1,15473.75,4.737829148805878
+50,,Chapeco - SC,85.8099,Granja - Chapeco,1,16092.5,4.880952380952381
+38,,Passo Fundo - RS,85.4614,Granja - Passo Fundo,1,14702.5,5.071576405657123
+45,,Araguaina - TO,85.3709,Granja - Araguaina,1,12115,3.887997432605905
+47,,Feira de Santana - BA,85.1745,Granja - Feira de Santana,1,13145,4.153238546603475
+36,,Cascavel - PR,85.1481,Granja - Cascavel,1,14643.75,5.209445037353255
+40,,Quixada - CE,85.1409,Granja - Quixada,1,10012.5,3.4114139693356047
+42,,Uberlandia - MG,85.1371,Granja - Uberlandia,1,11136.25,3.7319872654155497
+44,,Rio Verde - GO,85.1343,Granja - Rio Verde,1,12581.25,4.1128636809414845
+48,,Maraba - PA,85.1281,Granja - Maraba,1,13556.25,4.258953817153628
+42,,Uberlandia - MG,85.1032,Granja - Uberlandia,1,11457.5,3.8064784053156147
+37,,Linhares - ES,85.0607,Granja - Linhares,1,15376.25,5.385726795096322
+46,,Itacoatiara - AM,84.7742,Granja - Itacoatiara,1,12546.25,3.9867333968859233
+39,,Sorriso - MT,84.7403,Granja - Sorriso,1,9092.5,3.1451054998270496
+48,,Maraba - PA,84.336,Granja - Maraba,1,13482.5,4.218554443053817
+36,,Cascavel - PR,84.2798,Granja - Cascavel,1,14248.75,5.0924767691208
+43,,Dourados - MS,84.2571,Granja - Dourados,1,11795,3.87865833607366
+46,,Itacoatiara - AM,84.2252,Granja - Itacoatiara,1,13330,4.288931788931789
+38,,Passo Fundo - RS,84.1696,Granja - Passo Fundo,1,15713.75,5.44481981981982
+47,,Feira de Santana - BA,84.1563,Granja - Feira de Santana,1,12977.5,4.0835431088735055
+49,,Ji-Parana - RO,84.0759,Granja - Ji-Parana,1,13800,4.293714996888612
+45,,Araguaina - TO,84.0397,Granja - Araguaina,1,12825,4.150485436893204
+41,,Garanhuns - PE,84.0005,Granja - Garanhuns,1,10256.25,3.457939986513823
+37,,Linhares - ES,83.9579,Granja - Linhares,1,14887.5,5.238388458831809
+43,,Dourados - MS,83.8166,Granja - Dourados,1,11286.25,3.7433665008291874
+49,,Ji-Parana - RO,83.5137,Granja - Ji-Parana,1,13820,4.2826154322900525
+36,,Cascavel - PR,83.4035,Granja - Cascavel,1,13853.75,4.974416517055655
+44,,Rio Verde - GO,83.394,Granja - Rio Verde,1,12132.5,3.9493815104166665
+50,,Chapeco - SC,83.3833,Granja - Chapeco,1,13930,4.310024752475248
+40,,Quixada - CE,83.3463,Granja - Quixada,1,10836.25,3.708504449007529
+39,,Sorriso - MT,83.1609,Granja - Sorriso,1,10010,3.4781097984711606
+50,,Chapeco - SC,83.076,Granja - Chapeco,1,14043.75,4.327812018489984
+46,,Itacoatiara - AM,83.0004,Granja - Itacoatiara,1,13068.75,4.18735982057033
+47,,Feira de Santana - BA,82.9659,Granja - Feira de Santana,1,13480,4.294361261548263
+42,,Uberlandia - MG,82.9336,Granja - Uberlandia,1,10178.75,3.426035005048805
+42,,Uberlandia - MG,82.9186,Granja - Uberlandia,1,10500,3.5035035035035036
+37,,Linhares - ES,82.8819,Granja - Linhares,1,14398.75,5.089696005655709
+38,,Passo Fundo - RS,82.8298,Granja - Passo Fundo,1,15131.25,5.266707274625826
+50,,Chapeco - SC,82.739,Granja - Chapeco,1,14157.5,4.3454573357888275
+45,,Araguaina - TO,82.686,Granja - Araguaina,1,11941.25,3.897274804177546
+36,,Cascavel - PR,82.5566,Granja - Cascavel,1,13458.75,4.855248917748917
+41,,Garanhuns - PE,82.5048,Granja - Garanhuns,1,10852.5,3.7077212162623847
+44,,Rio Verde - GO,82.4887,Granja - Rio Verde,1,11436.25,3.7545141168745895
+48,,Maraba - PA,82.486,Granja - Maraba,1,13703.75,4.340750712701932
+41,,Garanhuns - PE,82.0168,Granja - Garanhuns,1,10986.25,3.7203691161530648
+47,,Feira de Santana - BA,81.9484,Granja - Feira de Santana,1,13312.5,4.223508883248731
+37,,Linhares - ES,81.7589,Granja - Linhares,1,13910,4.939630681818182
+48,,Maraba - PA,81.6982,Granja - Maraba,1,13630,4.299684542586751
+36,,Cascavel - PR,81.6638,Granja - Cascavel,1,13063.75,4.734958318231243
+40,,Quixada - CE,81.5715,Granja - Quixada,1,10066.25,3.4603815744242006
+49,,Ji-Parana - RO,81.5683,Granja - Ji-Parana,1,13740,4.32755905511811
+44,,Rio Verde - GO,81.5678,Granja - Rio Verde,1,10740,3.556291390728477
+39,,Sorriso - MT,81.5672,Granja - Sorriso,1,9333.75,3.257853403141361
+38,,Passo Fundo - RS,81.4778,Granja - Passo Fundo,1,14548.75,5.086975524475524
+43,,Dourados - MS,81.361,Granja - Dourados,1,11828.75,3.9402898067954695
+45,,Araguaina - TO,81.2215,Granja - Araguaina,1,11586.25,3.765437114072148
+46,,Itacoatiara - AM,81.1968,Granja - Itacoatiara,1,11997.5,3.8764135702746363
+49,,Ji-Parana - RO,81.0422,Granja - Ji-Parana,1,13760,4.316185696361355
+43,,Dourados - MS,80.8894,Granja - Dourados,1,11320,3.803763440860215
+36,,Cascavel - PR,80.7626,Granja - Cascavel,1,12668.75,4.613528769118719
+47,,Feira de Santana - BA,80.7204,Granja - Feira de Santana,1,12221.25,3.925875361387729
+42,,Uberlandia - MG,80.6754,Granja - Uberlandia,1,10815,3.656186612576065
+37,,Linhares - ES,80.6254,Granja - Linhares,1,13421.25,4.788173385658223
+49,,Ji-Parana - RO,80.4878,Granja - Ji-Parana,1,13780,4.304904717275852
+41,,Garanhuns - PE,80.452,Granja - Garanhuns,1,9988.75,3.4278483184625945
+50,,Chapeco - SC,80.253,Granja - Chapeco,1,13588.75,4.2557939242092075
+38,,Passo Fundo - RS,80.1134,Granja - Passo Fundo,1,13966.25,4.9056023884791005
+39,,Sorriso - MT,79.9956,Granja - Sorriso,1,8657.5,3.0355890603085554
+41,,Garanhuns - PE,79.9801,Granja - Garanhuns,1,10122.5,3.443027210884354
+50,,Chapeco - SC,79.9221,Granja - Chapeco,1,13702.5,4.274017467248909
+44,,Rio Verde - GO,79.8549,Granja - Rio Verde,1,11885,3.91856247939334
+45,,Araguaina - TO,79.8379,Granja - Araguaina,1,12296.25,4.03023598820059
+48,,Maraba - PA,79.8,Granja - Maraba,1,12257.5,3.9148834238262538
+40,,Quixada - CE,79.7448,Granja - Quixada,1,9296.25,3.2100310773480665
+47,,Feira de Santana - BA,79.7038,Granja - Feira de Santana,1,13647.5,4.365802943058221
+50,,Chapeco - SC,79.5938,Granja - Chapeco,1,13816.25,4.2920938179558865
+37,,Linhares - ES,79.4814,Granja - Linhares,1,14526.25,5.206541218637993
+46,,Itacoatiara - AM,79.3626,Granja - Itacoatiara,1,12520,4.079504724666015
+48,,Maraba - PA,79.05,Granja - Maraba,1,13777.5,4.382156488549619
+43,,Dourados - MS,78.9189,Granja - Dourados,1,10777.5,3.6057209769153564
+44,,Rio Verde - GO,78.9072,Granja - Rio Verde,1,11188.75,3.7209012304622546
+40,,Quixada - CE,78.8565,Granja - Quixada,1,8580,3.0031501575078754
+38,,Passo Fundo - RS,78.7734,Granja - Passo Fundo,1,14977.5,5.284932956951305
+49,,Ji-Parana - RO,78.4764,Granja - Ji-Parana,1,13700,4.350587488091458
+47,,Feira de Santana - BA,78.437,Granja - Feira de Santana,1,12556.25,4.067460317460317
+42,,Uberlandia - MG,78.4327,Granja - Uberlandia,1,9857.5,3.3471986417657047
+45,,Araguaina - TO,78.4306,Granja - Araguaina,1,11412.5,3.772727272727273
+43,,Dourados - MS,78.4239,Granja - Dourados,1,10268.75,3.465659804252447
+41,,Garanhuns - PE,78.3809,Granja - Garanhuns,1,9125,3.145467080317132
+39,,Sorriso - MT,78.3728,Granja - Sorriso,1,9575,3.372666431842198
+42,,Uberlandia - MG,78.3722,Granja - Uberlandia,1,9536.25,3.266957862281603
+37,,Linhares - ES,78.3643,Granja - Linhares,1,14037.5,5.054915376305366
+46,,Itacoatiara - AM,78.109,Granja - Itacoatiara,1,12258.75,3.977530824140169
+44,,Rio Verde - GO,77.9431,Granja - Rio Verde,1,10492.5,3.519792016101979
+49,,Ji-Parana - RO,77.9256,Granja - Ji-Parana,1,13720,4.3390259329538265
+40,,Quixada - CE,77.9015,Granja - Quixada,1,10120,3.5102323968088798
+46,,Itacoatiara - AM,77.4971,Granja - Itacoatiara,1,11448.75,3.76232336510023
+47,,Feira de Santana - BA,77.4552,Granja - Feira de Santana,1,12388.75,3.9963709677419357
+38,,Passo Fundo - RS,77.384,Granja - Passo Fundo,1,14395,5.10280042538107
+37,,Linhares - ES,77.1989,Granja - Linhares,1,13548.75,4.9018632416787264
+48,,Maraba - PA,77.1026,Granja - Maraba,1,12405,3.995169082125604
+45,,Araguaina - TO,76.9988,Granja - Araguaina,1,10528.75,3.510753584528176
+40,,Quixada - CE,76.984,Granja - Quixada,1,9403.75,3.3065225035161743
+45,,Araguaina - TO,76.9311,Granja - Araguaina,1,11057.5,3.6397300855826202
+39,,Sorriso - MT,76.735,Granja - Sorriso,1,8898.75,3.1488853503184715
+50,,Chapeco - SC,76.6905,Granja - Chapeco,1,13361.25,4.218898010735712
+50,,Chapeco - SC,76.3714,Granja - Chapeco,1,13475,4.237421383647798
+41,,Garanhuns - PE,76.3272,Granja - Garanhuns,1,9855,3.4123961218836567
+48,,Maraba - PA,76.3241,Granja - Maraba,1,12331.25,3.9548588838999357
+46,,Itacoatiara - AM,76.2749,Granja - Itacoatiara,1,11187.5,3.6608311518324608
+44,,Rio Verde - GO,76.1887,Granja - Rio Verde,1,11637.5,3.8869405477621912
+47,,Feira de Santana - BA,76.149,Granja - Feira de Santana,1,11297.5,3.6907873244037894
+42,,Uberlandia - MG,76.1345,Granja - Uberlandia,1,10493.75,3.5790416098226467
+42,,Uberlandia - MG,76.0891,Granja - Uberlandia,1,10172.5,3.500516173434274
+40,,Quixada - CE,76.078,Granja - Quixada,1,9350,3.2578397212543555
+37,,Linhares - ES,76.0225,Granja - Linhares,1,13060,4.747364594692839
+38,,Passo Fundo - RS,75.9818,Granja - Passo Fundo,1,13812.5,4.918981481481482
+43,,Dourados - MS,75.9012,Granja - Dourados,1,10811.25,3.6648305084745765
+46,,Itacoatiara - AM,75.5994,Granja - Itacoatiara,1,11971.25,3.9679317202519058
+45,,Araguaina - TO,75.5273,Granja - Araguaina,1,11767.5,3.9068725099601593
+43,,Dourados - MS,75.3727,Granja - Dourados,1,10302.5,3.5234268125854995
+49,,Ji-Parana - RO,75.2995,Granja - Ji-Parana,1,12066.25,3.8636727505603585
+44,,Rio Verde - GO,75.1965,Granja - Rio Verde,1,10941.25,3.686404986522911
+47,,Feira de Santana - BA,75.1345,Granja - Feira de Santana,1,12723.75,4.139150943396227
+40,,Quixada - CE,75.1311,Granja - Quixada,1,8633.75,3.049717414341222
+39,,Sorriso - MT,75.1193,Granja - Sorriso,1,8222.5,2.9230359047280485
+36,,Cascavel - PR,74.9864,Granja - Cascavel,1,12273.75,4.490944017563118
+37,,Linhares - ES,74.873,Granja - Linhares,1,12571.25,4.591398831263696
+49,,Ji-Parana - RO,74.7573,Granja - Ji-Parana,1,13680,4.362244897959184
+41,,Garanhuns - PE,74.6488,Granja - Garanhuns,1,8857.5,3.108985608985609
+38,,Passo Fundo - RS,74.6038,Granja - Passo Fundo,1,13230,4.73345259391771
+46,,Itacoatiara - AM,74.3749,Granja - Itacoatiara,1,11710,3.8646864686468647
+48,,Maraba - PA,74.3257,Granja - Maraba,1,12552.5,4.076810652809353
+41,,Garanhuns - PE,74.2187,Granja - Garanhuns,1,8991.25,3.1273913043478263
+44,,Rio Verde - GO,74.1867,Granja - Rio Verde,1,10245,3.482324949014276
+36,,Cascavel - PR,74.0831,Granja - Cascavel,1,13472.5,4.953125
+45,,Araguaina - TO,74.064,Granja - Araguaina,1,10883.75,3.6449263228399196
+47,,Feira de Santana - BA,73.7874,Granja - Feira de Santana,1,11632.5,3.8327841845140034
+42,,Uberlandia - MG,73.7494,Granja - Uberlandia,1,9215,3.185274801244383
+37,,Linhares - ES,73.6743,Granja - Linhares,1,12082.5,4.433944954128441
+48,,Maraba - PA,73.5524,Granja - Maraba,1,12478.75,4.035818240620958
+39,,Sorriso - MT,73.4512,Granja - Sorriso,1,7546.25,2.695089285714286
+43,,Dourados - MS,73.3917,Granja - Dourados,1,9760,3.3231188287368063
+50,,Chapeco - SC,73.3784,Granja - Chapeco,1,13020,4.162404092071611
+40,,Quixada - CE,73.2241,Granja - Quixada,1,7863.75,2.790542938254081
+38,,Passo Fundo - RS,73.1755,Granja - Passo Fundo,1,14241.25,5.119069015097052
+36,,Cascavel - PR,73.1325,Granja - Cascavel,1,13077.5,4.830993719985224
+50,,Chapeco - SC,73.0691,Granja - Chapeco,1,13133.75,4.181391276663483
+43,,Dourados - MS,72.8384,Granja - Dourados,1,9251.25,3.1780316042597048
+50,,Chapeco - SC,72.7954,Granja - Chapeco,1,13247.5,4.200221940393152
+47,,Feira de Santana - BA,72.7743,Granja - Feira de Santana,1,11465,3.761482939632546
+49,,Ji-Parana - RO,72.6069,Granja - Ji-Parana,1,12006.25,3.8930771725032427
+45,,Araguaina - TO,72.5751,Granja - Araguaina,1,10000,3.3783783783783785
+41,,Garanhuns - PE,72.5036,Granja - Garanhuns,1,7993.75,2.8186706629055007
+37,,Linhares - ES,72.4641,Granja - Linhares,1,13187.5,4.862647492625369
+44,,Rio Verde - GO,72.4611,Granja - Rio Verde,1,9796.25,3.3151438240270727
+46,,Itacoatiara - AM,72.4419,Granja - Itacoatiara,1,10638.75,3.541527962716378
+36,,Cascavel - PR,72.1728,Granja - Cascavel,1,12682.5,4.707683741648107
+41,,Garanhuns - PE,72.1275,Granja - Garanhuns,1,9721.25,3.396663172606569
+49,,Ji-Parana - RO,72.0693,Granja - Ji-Parana,1,12026.25,3.8831934129803036
+39,,Sorriso - MT,71.7676,Granja - Sorriso,1,8463.75,3.0368675995694296
+38,,Passo Fundo - RS,71.7337,Granja - Passo Fundo,1,13658.75,4.932737450343084
+49,,Ji-Parana - RO,71.5696,Granja - Ji-Parana,1,12046.25,3.8733922829581995
+48,,Maraba - PA,71.5016,Granja - Maraba,1,11106.25,3.6378152636750736
+42,,Uberlandia - MG,71.4249,Granja - Uberlandia,1,9851.25,3.4205729166666665
+44,,Rio Verde - GO,71.4226,Granja - Rio Verde,1,10693.75,3.650990099009901
+47,,Feira de Santana - BA,71.3849,Granja - Feira de Santana,1,10373.75,3.44757394483217
+40,,Quixada - CE,71.3366,Granja - Quixada,1,8687.5,3.0971479500891266
+42,,Uberlandia - MG,71.3357,Granja - Uberlandia,1,9530,3.339173090399439
+37,,Linhares - ES,71.2422,Granja - Linhares,1,12698.75,4.704983327158207
+36,,Cascavel - PR,71.2037,Granja - Cascavel,1,12287.5,4.583177918687057
+45,,Araguaina - TO,71.0684,Granja - Araguaina,1,11238.75,3.7802724520686177
+48,,Maraba - PA,70.7677,Granja - Maraba,1,12626.25,4.118150684931507
+46,,Itacoatiara - AM,70.4753,Granja - Itacoatiara,1,11161.25,3.7479012760241774
+41,,Garanhuns - PE,70.3756,Granja - Garanhuns,1,8723.75,3.0902408784980517
+47,,Feira de Santana - BA,70.3735,Granja - Feira de Santana,1,11800,3.9046988749172735
+44,,Rio Verde - GO,70.3654,Granja - Rio Verde,1,9997.5,3.4438511884257665
+38,,Passo Fundo - RS,70.3163,Granja - Passo Fundo,1,13076.25,4.744648040638607
+36,,Cascavel - PR,70.2643,Granja - Cascavel,1,11892.5,4.457458770614693
+43,,Dourados - MS,70.2454,Granja - Dourados,1,9793.75,3.379485852311939
+39,,Sorriso - MT,70.1058,Granja - Sorriso,1,7787.5,2.8073179524152847
+37,,Linhares - ES,70.0474,Granja - Linhares,1,12210,4.5457930007446015
+50,,Chapeco - SC,69.9826,Granja - Chapeco,1,12678.75,4.1044836516672065
+50,,Chapeco - SC,69.7173,Granja - Chapeco,1,12792.5,4.1239522888459055
+43,,Dourados - MS,69.6562,Granja - Dourados,1,9285,3.2329387186629526
+45,,Araguaina - TO,69.5465,Granja - Araguaina,1,10355,3.5137427892772313
+50,,Chapeco - SC,69.4206,Granja - Chapeco,1,12906.25,4.143258426966292
+40,,Quixada - CE,69.3941,Granja - Quixada,1,7917.5,2.8357808022922635
+49,,Ji-Parana - RO,69.3126,Granja - Ji-Parana,1,11966.25,3.91309679529104
+36,,Cascavel - PR,69.2764,Granja - Cascavel,1,11497.5,4.330508474576271
+46,,Itacoatiara - AM,69.257,Granja - Itacoatiara,1,10900,3.6442661317285188
+42,,Uberlandia - MG,69.0428,Granja - Uberlandia,1,8893.75,3.1021102197418906
+47,,Feira de Santana - BA,68.9406,Granja - Feira de Santana,1,10708.75,3.5899262487428762
+42,,Uberlandia - MG,68.9315,Granja - Uberlandia,1,8572.5,3.0174234424498416
+38,,Passo Fundo - RS,68.8473,Granja - Passo Fundo,1,12493.75,4.554775792927452
+49,,Ji-Parana - RO,68.8183,Granja - Ji-Parana,1,11986.25,3.903044610875936
+37,,Linhares - ES,68.8018,Granja - Linhares,1,11721.25,4.385054246165358
+48,,Maraba - PA,68.6634,Granja - Maraba,1,11253.75,3.7177898909811695
+44,,Rio Verde - GO,68.5979,Granja - Rio Verde,1,9548.75,3.2746056241426613
+46,,Itacoatiara - AM,68.474,Granja - Itacoatiara,1,10090,3.418021680216802
+39,,Sorriso - MT,68.3906,Granja - Sorriso,1,7111.25,2.5756066642520827
+36,,Cascavel - PR,68.2788,Granja - Cascavel,1,11102.5,4.202308856926571
+41,,Garanhuns - PE,68.1907,Granja - Garanhuns,1,7860,2.797153024911032
+45,,Araguaina - TO,67.9974,Granja - Araguaina,1,9471.25,3.2424683327627526
+47,,Feira de Santana - BA,67.9659,Granja - Feira de Santana,1,10541.25,3.5184412550066755
+48,,Maraba - PA,67.9011,Granja - Maraba,1,11180,3.6776315789473686
+43,,Dourados - MS,67.6652,Granja - Dourados,1,8742.5,3.0303292894280762
+37,,Linhares - ES,67.5441,Granja - Linhares,1,11232.5,4.222744360902255
+44,,Rio Verde - GO,67.5107,Granja - Rio Verde,1,8852.5,3.0631487889273354
+40,,Quixada - CE,67.4335,Granja - Quixada,1,7147.5,2.5719683339330692
+38,,Passo Fundo - RS,67.3643,Granja - Passo Fundo,1,13505,4.946886446886447
+36,,Cascavel - PR,67.2713,Granja - Cascavel,1,10707.5,4.072841384556866
+46,,Itacoatiara - AM,67.2538,Granja - Itacoatiara,1,9828.75,3.3149241146711637
+43,,Dourados - MS,67.0498,Granja - Dourados,1,8233.75,2.8799405386498775
+39,,Sorriso - MT,66.6592,Granja - Sorriso,1,8028.75,2.921670305676856
+42,,Uberlandia - MG,66.542,Granja - Uberlandia,1,9208.75,3.2562765205091937
+45,,Araguaina - TO,66.5267,Granja - Araguaina,1,10710,3.6503067484662575
+50,,Chapeco - SC,66.2461,Granja - Chapeco,1,12451.25,4.065050603983023
+41,,Garanhuns - PE,66.0229,Granja - Garanhuns,1,8590,3.07114765820522
+49,,Ji-Parana - RO,65.9962,Granja - Ji-Parana,1,11926.25,3.9334597625329817
+50,,Chapeco - SC,65.9603,Granja - Chapeco,1,12565,4.084850455136541
+38,,Passo Fundo - RS,65.9056,Granja - Passo Fundo,1,12922.5,4.756164887743835
+48,,Maraba - PA,65.7413,Granja - Maraba,1,11401.25,3.7991502832389203
+40,,Quixada - CE,65.4922,Granja - Quixada,1,7971.25,2.8818691250903834
+47,,Feira de Santana - BA,65.4809,Granja - Feira de Santana,1,10876.25,3.662037037037037
+49,,Ji-Parana - RO,65.4776,Granja - Ji-Parana,1,11946.25,3.9232348111658455
+46,,Itacoatiara - AM,65.2151,Granja - Itacoatiara,1,10351.25,3.5220313031643418
+48,,Maraba - PA,64.9849,Granja - Maraba,1,11327.5,3.758294625082946
+39,,Sorriso - MT,64.9494,Granja - Sorriso,1,7352.5,2.6882998171846437
+45,,Araguaina - TO,64.9437,Granja - Araguaina,1,9826.25,3.3790405777166437
+44,,Rio Verde - GO,64.6664,Granja - Rio Verde,1,9301.25,3.232968369829684
+38,,Passo Fundo - RS,64.3942,Granja - Passo Fundo,1,12340,4.563609467455621
+43,,Dourados - MS,64.383,Granja - Dourados,1,8776.25,3.083713984539705
+42,,Uberlandia - MG,64.0934,Granja - Uberlandia,1,8251.25,2.931172291296625
+41,,Garanhuns - PE,63.7973,Granja - Garanhuns,1,7726.25,2.7752334770114944
+40,,Quixada - CE,63.4946,Granja - Quixada,1,7201.25,2.615782782419179
+39,,Sorriso - MT,63.185,Granja - Sorriso,1,6676.25,2.4527002204261574
+38,,Passo Fundo - RS,62.8683,Granja - Passo Fundo,1,11757.5,4.369193608324043
+50,,Chapeco - SC,62.1393,Granja - Chapeco,1,10743.75,3.5225409836065573
+49,,Ji-Parana - RO,62.0793,Granja - Ji-Parana,1,10312.5,3.4158661808545876
+48,,Maraba - PA,62.0181,Granja - Maraba,1,9881.25,3.3069779116465865
+47,,Feira de Santana - BA,61.9555,Granja - Feira de Santana,1,9450,3.195806560703416
+46,,Itacoatiara - AM,61.8917,Granja - Itacoatiara,1,9018.75,3.0822795625427206
+45,,Araguaina - TO,61.8264,Granja - Araguaina,1,8587.5,2.966321243523316
+44,,Rio Verde - GO,61.7598,Granja - Rio Verde,1,8156.25,2.8478526536312847
+43,,Dourados - MS,61.6917,Granja - Dourados,1,7725,2.726791387222026
+42,,Uberlandia - MG,61.6221,Granja - Uberlandia,1,7293.75,2.603051391862955
+41,,Garanhuns - PE,61.5509,Granja - Garanhuns,1,6862.5,2.4765427643450018
+40,,Quixada - CE,61.4781,Granja - Quixada,1,6431.25,2.3471715328467155
+39,,Sorriso - MT,61.4037,Granja - Sorriso,1,6000,2.2148394241417497
+38,,Passo Fundo - RS,61.3275,Granja - Passo Fundo,1,11175,4.172890216579537
+37,,Linhares - ES,61.2495,Granja - Linhares,1,10743.75,4.05884019644881
+36,,Cascavel - PR,61.1697,Granja - Cascavel,1,10312.5,3.9420871559633026
+1,Camila Ferreira,Atibaia - SP,7.459,Granja para Produção de Ovos Caipiras - Atibaia,1,12345.67,0.29103418198962755
+23,Antônio Becker,Caxias do Sul - RS,3.4465,Granja Boa Esperança,1,2425000,48.5
+21,"Joaquim Pereira, TesteLogin2, TesteLogin4",Campinas - SP,2.8681,Granja Alvorada,1,1210000,48.4
+22,Sérgio Mendes,Joinville - SC,2.8532,Granja Bela Vista,1,1455000,48.5
+27,Fernando Diniz,Sete Lagoas - MG,1.5774,Granja Flor da Serra,1,1950000,48.75
+25,Luiz Gonzaga,Anápolis - GO,1.5724,Granja Doce Lagoa,1,1700000,48.57142857142857
+28,Paulo Roberto,Formosa - GO,1.5392,Granja Girassol,1,1075000,48.86363636363637
+24,Marcos Prado,Piracicaba - SP,1.4719,Granja Campo Verde,1,970000,48.5
+26,Manoel Cabral,Caruaru - PE,1.363,Granja Estrela do Norte,1,875000,48.611111111111114
+2,"Carlos Santos, Lucas Teixeira, Thiago Mendes",São Pedro - SP,,Sítio com 2 Granjas - São Pedro,1,0,0
+3,Bianca Rocha,Cerquilho - SP,,Granja Automatizada para 220 Mil Aves - Cerquilho,1,0,0
+4,fabs,Cerquilho - SP,,Granja em Plena Produção - Cerquilho,4,0,0
+16,"Bruno Rodrigues, Marcos Ribeiro",São Paulo - SP,,Compro Granja de Postura Caipira - São Paulo,2,0,0
+19,"Júlia Watanabe, Lucas Cayres Porto",São Paulo - SP,,Granja Frango de Corte - São Paulo,1,0,0
+2,"Carlos Santos, Lucas Teixeira, Thiago Mendes",São Pedro - SP,,Sítio com 2 Granjas - São Pedro,1,0,0
+1,Camila Ferreira,Atibaia - SP,,Granja para Produção de Ovos Caipiras - Atibaia,2,0,0
+5,,Itapira - SP,,"Granja e Propriedade Rural de 6,16 Alqueires - Itapira",1,0,0
+9,Fernanda Barros,Santo Antônio de Posse - SP,,Granja de Aves - Santo Antônio de Posse,3,0,0
+7,,Amparo - SP,,Granja de Aves com 6 Alqueires - Amparo,1,0,0
+10,,Ibiúna - SP,,Arrendamento de Aviário - Ibiúna,1,0,0
+11,"Juliana Costa, Larissa Martins, Renata Alves",Bragança Paulista - SP,,Granja de Frango Automatizada - Bragança Paulista,1,0,0
+9,Fernanda Barros,Santo Antônio de Posse - SP,,Granja de Aves - Santo Antônio de Posse,1,0,0
+17,"Ana Souza, Carolina Freitas",Pereiras - SP,,Sítio com Granjas de Frangos - Pereiras,1,0,0
+15,,Tatuí - SP,,Sítio Granja à Venda - Tatuí,2,0,0
+14,"Diego Carvalho, Rafael Lima",São Carlos - SP,,Granja de Aves - São Carlos,1,0,0
