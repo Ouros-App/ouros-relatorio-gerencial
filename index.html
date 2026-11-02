@@ -320,10 +320,17 @@ li {
   color: var(--gold-light);
 }
 
-table.pipeline-auto td:first-child {
+.page#pipeline table.pipeline-auto th {
   color: #fff;
+  font-size: inherit;
   font-weight: 700;
+  letter-spacing: normal;
+  text-transform: none;
+  white-space: nowrap;
   width: 30mm;
+  padding: 5px;
+  border-top: 0;
+  border-bottom-color: rgba(255,255,255,.14);
 }
 
 .defs {
@@ -998,12 +1005,12 @@ table.detail tr.hi td:first-child {
   <div class="title sub"><h2>Etapas automatizadas</h2></div>
   <table class="detail pipeline-auto">
     <tbody>
-      <tr><td>Gatilho</td><td>Agendado: todos os dias às 06:00 (America/Sao_Paulo), sem disparo manual.</td></tr>
-      <tr><td>Sequência</td><td>bronze → silver → gold; a falha de uma etapa interrompe as seguintes.</td></tr>
-      <tr><td>Execução</td><td>Computação serverless, cerca de 4 minutos por execução completa.</td></tr>
-      <tr><td>Monitoramento</td><td>Aviso automático quando a execução falha.</td></tr>
-      <tr><td>Histórico</td><td>Execuções diárias desde outubro/2026; duas falhas na bronze, seguidas de execuções bem-sucedidas.</td></tr>
-      <tr><td>Manual</td><td>Exportação dos CSVs e atualização deste relatório.</td></tr>
+      <tr><th scope="row">Gatilho</th><td>Agendado: todos os dias às 06:00 (America/Sao_Paulo), sem disparo manual.</td></tr>
+      <tr><th scope="row">Sequência</th><td>bronze → silver → gold; a falha de uma etapa interrompe as seguintes.</td></tr>
+      <tr><th scope="row">Execução</th><td>Computação serverless, cerca de 4 minutos por execução completa.</td></tr>
+      <tr><th scope="row">Monitoramento</th><td>Aviso automático quando a execução falha.</td></tr>
+      <tr><th scope="row">Histórico</th><td>Execuções diárias desde outubro/2026; duas falhas na bronze, seguidas de execuções bem-sucedidas.</td></tr>
+      <tr><th scope="row">Manual</th><td>Exportação dos CSVs e atualização deste relatório.</td></tr>
     </tbody>
   </table>
 
