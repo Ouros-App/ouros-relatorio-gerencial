@@ -300,6 +300,39 @@ li {
   padding-top: 8px;
 }
 
+.pipeline-flow {
+  margin-bottom: 0;
+}
+
+.page#pipeline .title.sub {
+  margin: 7mm 0 3mm;
+}
+
+.page#pipeline table.detail td {
+  padding: 5px;
+}
+
+.page#pipeline table.detail {
+  margin-bottom: 3mm;
+}
+
+.pipeline-flow code {
+  color: var(--gold-light);
+}
+
+.page#pipeline table.pipeline-auto th {
+  color: #fff;
+  font-size: inherit;
+  font-weight: 700;
+  letter-spacing: normal;
+  text-transform: none;
+  white-space: nowrap;
+  width: 30mm;
+  padding: 5px;
+  border-top: 0;
+  border-bottom-color: rgba(255,255,255,.14);
+}
+
 .defs {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
@@ -744,13 +777,14 @@ table.detail tr.hi td:first-child {
         <a href="#resumo"><span>Resumo Executivo</span><span>02</span></a>
         <a href="#contexto"><span>Contexto, Problema e Objetivos</span><span>03</span></a>
         <a href="#dados"><span>Base de Dados e Tratamento</span><span>04</span></a>
-        <a href="#kpis"><span>Indicadores de Desempenho</span><span>05</span></a>
-        <a href="#adm-estado"><span>Painel ADM · Gasto por Estado</span><span>06</span></a>
-        <a href="#adm-custos"><span>Painel ADM · Distribuição de Custos</span><span>07</span></a>
-        <a href="#adm-consumo"><span>Painel ADM · Tendências de Consumo</span><span>08</span></a>
-        <a href="#adm-lotes"><span>Painel ADM · Relatório Detalhado</span><span>09</span></a>
-        <a href="#insights"><span>Insights Gerenciais</span><span>10</span></a>
-        <a href="#recomendacoes"><span>Recomendações e Próximos Passos</span><span>11</span></a>
+        <a href="#pipeline"><span>Pipeline de Dados e Automação</span><span>05</span></a>
+        <a href="#kpis"><span>Indicadores de Desempenho</span><span>06</span></a>
+        <a href="#adm-estado"><span>Painel ADM · Gasto por Estado</span><span>07</span></a>
+        <a href="#adm-custos"><span>Painel ADM · Distribuição de Custos</span><span>08</span></a>
+        <a href="#adm-consumo"><span>Painel ADM · Tendências de Consumo</span><span>09</span></a>
+        <a href="#adm-lotes"><span>Painel ADM · Relatório Detalhado</span><span>10</span></a>
+        <a href="#insights"><span>Insights Gerenciais</span><span>11</span></a>
+        <a href="#recomendacoes"><span>Recomendações e Próximos Passos</span><span>12</span></a>
   </nav>
   <footer class="page-footer">Ouros Analytics • Relatório Executivo</footer>
 </section>
@@ -950,8 +984,57 @@ table.detail tr.hi td:first-child {
   <footer class="page-footer">Ouros Analytics • Relatório Executivo</footer>
 </section>
 
-<section class="page" id="kpis">
+<section class="page" id="pipeline">
   <div class="page-num">05</div>
+
+  <div class="title"><h1>Pipeline de Dados e Automação</h1></div>
+
+  <p class="lead">
+    O tratamento roda no Databricks pelo job <b>Ouros - Medalhão</b>, em
+    arquitetura medalhão: cada camada é um notebook que só executa se a
+    anterior terminar com sucesso.
+  </p>
+
+  <div class="flow pipeline-flow">
+    <div><b>01</b><span>Bronze</span><code>note_bronze</code>: ingestão dos dados brutos das granjas.</div>
+    <div><b>02</b><span>Silver</span><code>note_silver</code>: limpeza, padronização e criação das colunas derivadas.</div>
+    <div><b>03</b><span>Gold</span><code>note_gold</code>: agregações e medidas usadas pelos indicadores.</div>
+    <div><b>04</b><span>Dashboard</span>Consultas SQL sobre a gold, exportadas em CSV.</div>
+  </div>
+
+  <div class="title sub"><h2>Etapas automatizadas</h2></div>
+  <table class="detail pipeline-auto">
+    <tbody>
+      <tr><th scope="row">Gatilho</th><td>Agendado: todos os dias às 06:00 (America/Sao_Paulo), sem disparo manual.</td></tr>
+      <tr><th scope="row">Sequência</th><td>bronze → silver → gold; a falha de uma etapa interrompe as seguintes.</td></tr>
+      <tr><th scope="row">Execução</th><td>Computação serverless, cerca de 4 minutos por execução completa.</td></tr>
+      <tr><th scope="row">Monitoramento</th><td>Aviso automático quando a execução falha.</td></tr>
+      <tr><th scope="row">Histórico</th><td>Execuções diárias desde outubro/2026; duas falhas na bronze, seguidas de execuções bem-sucedidas.</td></tr>
+      <tr><th scope="row">Manual</th><td>Exportação dos CSVs e atualização deste relatório.</td></tr>
+    </tbody>
+  </table>
+
+  <div class="title sub"><h2>Relação com KPIs e dashboard</h2></div>
+  <table class="detail">
+    <thead><tr><th>Indicador / painel</th><th>Visual</th><th>Consulta (CSV)</th><th class="num">Pág.</th></tr></thead>
+    <tbody>
+      <tr><td>Gasto total 2025 e 2026</td><td>KPI</td><td>Total gasto - Ano passado / Ano atual</td><td class="num">02</td></tr>
+      <tr><td>Custo por ave · Quantidade de lotes</td><td>KPI</td><td>Custo por Frango · Total de lotes</td><td class="num">02</td></tr>
+      <tr><td>Variação mensal</td><td>Linha</td><td>Custo Mensal</td><td class="num">02</td></tr>
+      <tr><td>Gasto por estado</td><td>Mapa</td><td>Gasto por Estado</td><td class="num">07</td></tr>
+      <tr><td>Custo por lote e por região</td><td>Histograma · Box plot</td><td>Custo por Lote · Consumo por Estado</td><td class="num">08</td></tr>
+      <tr><td>Energia e água por ave</td><td>Combo</td><td>Tendência entre kWh / litros e frangos</td><td class="num">09</td></tr>
+      <tr><td>Detalhe por granja</td><td>Tabela</td><td>Relatório Detalhado</td><td class="num">10</td></tr>
+    </tbody>
+  </table>
+  <p class="fine">Como as consultas leem a camada gold, cada execução bem-sucedida do job
+  atualiza os indicadores do dashboard. Se o job falha, os painéis mantêm os dados da
+  última execução válida até a correção.</p>
+  <footer class="page-footer">Ouros Analytics • Relatório Executivo</footer>
+</section>
+
+<section class="page" id="kpis">
+  <div class="page-num">06</div>
 
   <div class="title"><h1>Indicadores de Desempenho</h1></div>
 
@@ -991,7 +1074,7 @@ table.detail tr.hi td:first-child {
 </section>
 
 <section class="page" id="adm-estado">
-  <div class="page-num">06</div>
+  <div class="page-num">07</div>
 
   <div class="title"><h1>Painel ADM</h1><p>Visão agregada do portfólio e investigação de variações</p></div>
 
@@ -1104,7 +1187,7 @@ table.detail tr.hi td:first-child {
 </section>
 
 <section class="page" id="adm-custos">
-  <div class="page-num">07</div>
+  <div class="page-num">08</div>
 
   <div class="title"><h1>Distribuição de Custos</h1></div>
 
@@ -1247,7 +1330,7 @@ table.detail tr.hi td:first-child {
 </section>
 
 <section class="page" id="adm-consumo">
-  <div class="page-num">08</div>
+  <div class="page-num">09</div>
 
   <div class="title"><h1>Tendências de Consumo</h1></div>
 
@@ -1429,7 +1512,7 @@ table.detail tr.hi td:first-child {
 </section>
 
 <section class="page" id="adm-lotes">
-  <div class="page-num">09</div>
+  <div class="page-num">10</div>
 
   <div class="title"><h1>Relatório Detalhado</h1><p>As 16 granjas de maior custo total · 2025 e 2026</p></div>
 
@@ -1469,7 +1552,7 @@ table.detail tr.hi td:first-child {
 </section>
 
 <section class="page" id="insights">
-  <div class="page-num">10</div>
+  <div class="page-num">11</div>
 
   <div class="title"><h1>Insights Gerenciais</h1><p>Observações e hipóteses que precisam de validação</p></div>
 
@@ -1515,7 +1598,7 @@ table.detail tr.hi td:first-child {
 </section>
 
 <section class="page" id="recomendacoes">
-  <div class="page-num">11</div>
+  <div class="page-num">12</div>
 
   <div class="title"><h1>Recomendações e Próximos Passos</h1></div>
 
